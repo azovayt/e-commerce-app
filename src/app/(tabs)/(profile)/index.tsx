@@ -5,7 +5,6 @@ import AsyncStorage from "@react-native-async-storage/async-storage";
 import useAuth from "../../../../src/hooks/useAuth";
 import CustomHeader from "../../../components/CustomHeader";
 import LoginCard from "../../../components/LoginCard";
-import { Text, TouchableOpacity } from "react-native";
 
 const ProfileScreen = () => {
   const { login, data, loading, error } = useAuth();

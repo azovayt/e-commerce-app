@@ -1,4 +1,3 @@
-// src/app/(tabs)/(category)/index.tsx
 import React from "react";
 import { View, FlatList, ScrollView } from "react-native";
 import { useRouter } from "expo-router";

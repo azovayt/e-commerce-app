@@ -1,4 +1,3 @@
-// src/app/(tabs)/(category)/product-types/[product-type].tsx
 import React from "react";
 import { View, Text, ScrollView } from "react-native";
 import { useLocalSearchParams, useRouter } from "expo-router";

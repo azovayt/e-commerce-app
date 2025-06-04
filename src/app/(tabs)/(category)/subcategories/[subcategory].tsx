@@ -1,4 +1,3 @@
-// src/app/(tabs)/(category)/subcategories/[subcategory].tsx
 import React from "react";
 import { View, Text, ScrollView } from "react-native";
 import { useRouter, useLocalSearchParams } from "expo-router";

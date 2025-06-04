@@ -3,7 +3,6 @@ import { View, Text, TouchableOpacity, ScrollView } from "react-native";
 import { router } from "expo-router";
 import CustomHeader from "../../../components/CustomHeader";
 import useApi from "../../../hooks/useApi";
-import { Ionicons } from "@expo/vector-icons";
 import HomeCategoryList from "../../../components/HomeCategoryList";
 import HomeProductGrid from "../../../components/HomeProductGrid";
 import ErrorMessage from "../../../components/ui/ErrorMessage";
