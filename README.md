@@ -5,7 +5,7 @@
 [![React Native](https://img.shields.io/badge/React%20Native-0.76.0-green)](https://reactnative.dev)
 [![Strapi](https://img.shields.io/badge/Strapi-5-purple)](https://strapi.io)
 
-**E-Commerce App**, E-Commerce App, React Native ve Expo tabanlı, Defacto uygulamasını referans alarak geliştirilmiş modern bir mobil uygulamadır. VPS sunucumda kurulu Strapi v5 backend'i ile entegre çalışarak dinamik ürün katalogları, kategori ve alt kategori yapıları sunar. Kullanıcılar, geniş ürün yelpazesine kolayca göz atabilir, ürün detaylarını inceleyebilir ve sorunsuz bir alışveriş deneyimi yaşayabilirler. Uygulama, NativeWind ile çağdaş bir kullanıcı arayüzü ve Expo Router ile akıcı ve sezgisel bir navigasyon deneyimi sağlar. Proje, dinamik veri yönetimi, kullanıcı kimlik doğrulama ve kapsamlı arama özellikleriyle zenginleştirilmiştir.
+**E-Commerce App**, React Native ve Expo tabanlı, Defacto uygulamasını referans alarak geliştirilmiş modern bir mobil uygulamadır. VPS sunucumda kurulu Strapi v5 backend'i ile entegre çalışarak dinamik ürün katalogları, kategori ve alt kategori yapıları sunar. Kullanıcılar, geniş ürün yelpazesine kolayca göz atabilir, ürün detaylarını inceleyebilir ve sorunsuz bir alışveriş deneyimi yaşayabilirler. Uygulama, NativeWind ile modern bir kullanıcı arayüzü ve Expo Router ile akıcı ve sezgisel bir navigasyon deneyimi sağlar. Proje, dinamik veri yönetimi, kullanıcı kimlik doğrulama ve kapsamlı arama özellikleriyle zenginleştirilmiştir.
 
 ## 🎯 Özellikler
 
