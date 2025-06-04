@@ -109,7 +109,3 @@ e-commerce-app/
 | Erkek Subcategory                                                   | Erkek ProductTypes                                                   | Erkek Products                                                   |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | <img src="./assets/screenshot/Erkek-Subcategory.jpg" width="300" /> | <img src="./assets/screenshot/Erkek-ProductTypes.jpg" width="300" /> | <img src="./assets/screenshot/Erkek-Products.jpg" width="300" /> |
-
-| Kategoriler                                                             | Favoriler                                                             | Product Details                                                            |
-| ----------------------------------------------------------------------- | --------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| <video src="./assets/mp4/Kategoriler.mp4" controls width="300" muted /> | <video src="./assets/mp4/Favoriler.mp4" controls width="300" muted /> | <video src="./assets/mp4/ProductDetails.mp4" controls width="300" muted /> |
