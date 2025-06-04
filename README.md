@@ -98,7 +98,7 @@ e-commerce-app/
 | ---------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------- |
 | <img src="./assets/screenshot/Anasayfa.jpg" width="300" /> | <img src="./assets/screenshot/Kategoriler.jpg" width="300" /> | <img src="./assets/screenshot/Sepet.jpg" width="300" /> |
 
-| Favoriler                                                   | Profil                                                         | Profil İndex                                                       |
+| Favoriler                                                   | Profil İndex                                                   | Profil                                                             |
 | ----------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------ |
 | <img src="./assets/screenshot/Favoriler.jpg" width="300" /> | <img src="./assets/screenshot/Giris-Ekrani.jpg" width="300" /> | <img src="./assets/screenshot/Kullanici-Ekrani.jpg" width="300" /> |
 
