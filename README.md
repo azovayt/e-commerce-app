@@ -132,9 +132,9 @@ e-commerce-app/
 | --------------------------------------------------------------------------------- |
 | <img src="./assets/screenshot/Strapi-Content-Maneger-Category.png" width="800" /> |
 
-| Content-Manager Subategory                                                          |
-| ----------------------------------------------------------------------------------- |
-| <img src="./assets/screenshot/Strapi-Content-Maneger-Subategory.png" width="800" /> |
+| Content-Manager Subategory                                                           |
+| ------------------------------------------------------------------------------------ |
+| <img src="./assets/screenshot/Strapi-Content-Maneger-Subcategory.png" width="800" /> |
 
 | Content-Manager Product                                                          |
 | -------------------------------------------------------------------------------- |
