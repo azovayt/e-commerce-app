@@ -92,7 +92,7 @@ e-commerce-app/
 ├── .env                                    # Ortam değişkenleri (process.env.EXPO_PUBLIC_URL)
 ```
 
-## 📸 Ekran Görüntüleri
+## 📸 Uygulama Ekran Görüntüleri
 
 | Anasayfa                                                   | Kategoriler                                                   | Sepet                                                   |
 | ---------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------- |
@@ -109,3 +109,21 @@ e-commerce-app/
 | Erkek Subcategory                                                   | Erkek ProductTypes                                                   | Erkek Products                                                   |
 | ------------------------------------------------------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------- |
 | <img src="./assets/screenshot/Erkek-Subcategory.jpg" width="300" /> | <img src="./assets/screenshot/Erkek-ProductTypes.jpg" width="300" /> | <img src="./assets/screenshot/Erkek-Products.jpg" width="300" /> |
+
+## 📸 Strapi Ekran Görüntüleri
+
+| Strapi Admin                                                   |
+| -------------------------------------------------------------- |
+| <img src="./assets/screenshot/Strapi-Panel.jpg" width="800" /> |
+
+| Content-Type Category                                                          |
+| ------------------------------------------------------------------------------ |
+| <img src="./assets/screenshot/Strapi-Content-Type-Category.jpg" width="800" /> |
+
+| Content-Type Product                                                          |
+| ----------------------------------------------------------------------------- |
+| <img src="./assets/screenshot/Strapi-Content-Type-Product.jpg" width="800" /> |
+
+| Content-Type User                                                          |
+| -------------------------------------------------------------------------- |
+| <img src="./assets/screenshot/Strapi-Content-Type-User.jpg" width="800" /> |
