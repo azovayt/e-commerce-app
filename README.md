@@ -130,20 +130,20 @@ e-commerce-app/
 
 | Content-Manager Category                                                          |
 | --------------------------------------------------------------------------------- |
-| <img src="./assets/screenshot/Strapi-Content-Manager-Category.png" width="800" /> |
+| <img src="./assets/screenshot/Strapi-Content-Maneger-Category.png" width="800" /> |
 
 | Content-Manager Subategory                                                          |
 | ----------------------------------------------------------------------------------- |
-| <img src="./assets/screenshot/Strapi-Content-Manager-Subategory.png" width="800" /> |
+| <img src="./assets/screenshot/Strapi-Content-Maneger-Subategory.png" width="800" /> |
 
 | Content-Manager Product                                                          |
 | -------------------------------------------------------------------------------- |
-| <img src="./assets/screenshot/Strapi-Content-Manager-Product.png" width="800" /> |
+| <img src="./assets/screenshot/Strapi-Content-Maneger-Product.png" width="800" /> |
 
 | Content-Manager ProductType                                                          |
 | ------------------------------------------------------------------------------------ |
-| <img src="./assets/screenshot/Strapi-Content-Manager-ProductType.png" width="800" /> |
+| <img src="./assets/screenshot/Strapi-Content-Maneger-ProductType.png" width="800" /> |
 
 | Content-Manager User                                                          |
 | ----------------------------------------------------------------------------- |
-| <img src="./assets/screenshot/Strapi-Content-Manager-User.png" width="800" /> |
+| <img src="./assets/screenshot/Strapi-Content-Maneger-User.png" width="800" /> |
