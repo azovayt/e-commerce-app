@@ -114,16 +114,16 @@ e-commerce-app/
 
 | Strapi Admin                                                   |
 | -------------------------------------------------------------- |
-| <img src="./assets/screenshot/Strapi-Panel.jpg" width="800" /> |
+| <img src="./assets/screenshot/Strapi-Panel.png" width="800" /> |
 
 | Content-Type Category                                                          |
 | ------------------------------------------------------------------------------ |
-| <img src="./assets/screenshot/Strapi-Content-Type-Category.jpg" width="800" /> |
+| <img src="./assets/screenshot/Strapi-Content-Type-Category.png" width="800" /> |
 
 | Content-Type Product                                                          |
 | ----------------------------------------------------------------------------- |
-| <img src="./assets/screenshot/Strapi-Content-Type-Product.jpg" width="800" /> |
+| <img src="./assets/screenshot/Strapi-Content-Type-Product.png" width="800" /> |
 
 | Content-Type User                                                          |
 | -------------------------------------------------------------------------- |
-| <img src="./assets/screenshot/Strapi-Content-Type-User.jpg" width="800" /> |
+| <img src="./assets/screenshot/Strapi-Content-Type-User.png" width="800" /> |
